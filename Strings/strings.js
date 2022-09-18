@@ -11,5 +11,5 @@ let text = "It's a new day!"
 console.log(text)
 
 // using the escape character
-let text1 = "It is a \"Volcano\""
+let text1 = "It is called \"Volcano\""
 console.log(text1)
